@@ -1,28 +1,37 @@
 # Portfólio Pessoal
 
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+> Meu portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
+
+**Acesse meu portfólio:** https://joseefreitas.github.io
 
 Um site de portfólio moderno e responsivo, desenvolvido para apresentar minhas habilidades, projetos e informações de contato. Este projeto foi criado como trabalho da disciplina de Introdução à Computação, utilizando as melhores práticas de HTML, CSS e JavaScript.
 
 ---
 
-### 📋 Índice
+### Índice
 
-*   [Sobre o Projeto](#-sobre-o-projeto)
-*   [Funcionalidades](#-funcionalidades)
-*   [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-*   [Como Executar o Projeto](#-como-executar-o-projeto)
-*   [Contato](#-contato)
-
----
-
-### 🎯 Sobre o Projeto
-
-O objetivo deste projeto é criar uma presença online profissional que sirva como um cartão de visitas digital. O site é totalmente estático, com foco em um design limpo, performance e uma ótima experiência de usuário em qualquer dispositivo.
+*   [Sobre o Projeto](sobre-o-projeto)
+*   [Funcionalidades](funcionalidades)
+*   [Tecnologias Utilizadas](tecnologias-utilizadas)
+*   [Como Executar o Projeto](como-executar-o-projeto)
+*   [Contato](contato)
 
 ---
 
-### ✨ Funcionalidades
+###  Sobre o Projeto
+
+Este é meu portfólio pessoal, criado para apresentar minha trajetória
+acadêmica, projetos, habilidades e experiências na área de tecnologia.
+
+O projeto começou como um trabalho acadêmico da cadeira de Introdução à computação sobre tutoria do professor [Erick Simões](https://github.com/ErickSimoes) e está sendo continuamente
+aprimorado conforme avanço nos meus estudos de desenvolvimento web.
+
+Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e JavaScript,
+utilizando este projeto como um espaço para colocar esses conhecimentos em prática.
+
+---
+
+### Funcionalidades
 
 -   **Layout Responsivo:** Se adapta perfeitamente a desktops, tablets e smartphones.
 -   **Múltiplas Páginas:** Navegação clara entre as seções Home, Sobre, Projetos e Contato.
@@ -33,7 +42,7 @@ O objetivo deste projeto é criar uma presença online profissional que sirva co
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 As seguintes tecnologias foram utilizadas na construção do projeto:
 
@@ -43,19 +52,18 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ---
 
-### 🚀 Como Executar o Projeto
+### Como Executar o Projeto
 
 Este é um projeto web estático e não requer um servidor para ser executado.
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/Joseefreitas/seu-repositorio.git
+    git clone https://github.com/Joseefreitas/Joseefreitas.github.io.git
     ```
-    *(Lembre-se de substituir `seu-repositorio` pelo nome real do seu repositório no GitHub)*
 
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd seu-repositorio
+    cd Joseefreitas.github.io
     ```
 
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
